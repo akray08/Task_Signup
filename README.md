@@ -13,3 +13,6 @@ The application listen in the server.js file -> Task_Signup/signupbackend/server
 
 ### Frontend
 The application integration is done in the App.jsx file -> Task_Signup/src/App.jsx.
+
+[UI](![Screenshot (556)](https://user-images.githubusercontent.com/40709301/104700268-e748ea80-5739-11eb-8d69-8d4a48bebf7b.png)
+)
