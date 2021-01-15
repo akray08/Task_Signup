@@ -14,10 +14,10 @@ The application listen in the server.js file -> Task_Signup/signupbackend/server
 ### Frontend
 The application integration is done in the App.jsx file -> Task_Signup/src/App.jsx.
 
-UI ![Screenshot (556)](https://user-images.githubusercontent.com/40709301/104700268-e748ea80-5739-11eb-8d69-8d4a48bebf7b.png)
+The UI page ![Screenshot (556)](https://user-images.githubusercontent.com/40709301/104700268-e748ea80-5739-11eb-8d69-8d4a48bebf7b.png)
 
-![Screenshot (554)](https://user-images.githubusercontent.com/40709301/104701558-39d6d680-573b-11eb-935e-8f81697d50e2.png)
+The major issue the post request is returning { } ![Screenshot (554)](https://user-images.githubusercontent.com/40709301/104701558-39d6d680-573b-11eb-935e-8f81697d50e2.png)
 
-![Screenshot (557)](https://user-images.githubusercontent.com/40709301/104702050-7aceeb00-573b-11eb-9e96-6b7876f593f5.png)
+Tried the same thing with Resct client in visual studio it gave the same error![Screenshot (557)](https://user-images.githubusercontent.com/40709301/104702050-7aceeb00-573b-11eb-9e96-6b7876f593f5.png)
 
-![Screenshot (558)](https://user-images.githubusercontent.com/40709301/104702273-c4b7d100-573b-11eb-9bf5-d38ff974afcb.png)
+The frontend application is running smoothly ![Screenshot (558)](https://user-images.githubusercontent.com/40709301/104702273-c4b7d100-573b-11eb-9bf5-d38ff974afcb.png)
