@@ -18,6 +18,6 @@ The UI page ![Screenshot (556)](https://user-images.githubusercontent.com/407093
 
 The major issue the post request is returning { } ![Screenshot (554)](https://user-images.githubusercontent.com/40709301/104701558-39d6d680-573b-11eb-935e-8f81697d50e2.png)
 
-Tried the same thing with Resct client in visual studio it gave the same error![Screenshot (557)](https://user-images.githubusercontent.com/40709301/104702050-7aceeb00-573b-11eb-9e96-6b7876f593f5.png)
+Tried the same thing with Rest client in visual studio it gave the same error from the image it is clear the backend server is up and running ![Screenshot (557)](https://user-images.githubusercontent.com/40709301/104702050-7aceeb00-573b-11eb-9e96-6b7876f593f5.png)
 
-The frontend application is running smoothly ![Screenshot (558)](https://user-images.githubusercontent.com/40709301/104702273-c4b7d100-573b-11eb-9bf5-d38ff974afcb.png)
+The frontend of the application is complied smoothly ![Screenshot (558)](https://user-images.githubusercontent.com/40709301/104702273-c4b7d100-573b-11eb-9bf5-d38ff974afcb.png)
